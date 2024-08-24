@@ -32,7 +32,7 @@ Está diseñada para ofrecer una forma sencilla de gestionar tareas diarias medi
 2. **Navegar al Directorio del Proyecto:**
 
     ```bash
-    cd <nombre-del-repositorio>
+    cd Q10_prueba_tecnica
     ```
 
 3. **Abrir el Proyecto en Visual Studio o Rider:**
