@@ -36,14 +36,8 @@ Está diseñada para ofrecer una forma sencilla de gestionar tareas diarias medi
     ```
 
 3. **Abrir el Proyecto en Visual Studio o Rider:**
-
-    - En **Visual Studio**, seleccionar `File` > `Open` > `Project/Solution` y abrir el archivo `.csproj`.
-    - En **Rider**, seleccionar `Open` y navegar hasta el archivo `.csproj`.
-
+    
 4. **Restaurar Paquetes y Construir el Proyecto:**
-
-    - En **Visual Studio**, seleccionar `Build` > `Restore NuGet Packages` y luego `Build` > `Build Solution`.
-    - En **Rider**, seleccionar `Build` > `Restore NuGet Packages` y luego `Build` > `Build Solution`.
 
 ## Uso
 
