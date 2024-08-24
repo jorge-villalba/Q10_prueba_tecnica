@@ -26,7 +26,7 @@ Está diseñada para ofrecer una forma sencilla de gestionar tareas diarias medi
 1. **Clonar el Repositorio:**
 
     ```bash
-    git clone <https://github.com/jorge-villalba/Q10_prueba_tecnica>
+    git clone https://github.com/jorge-villalba/Q10_prueba_tecnica
     ```
 
 2. **Navegar al Directorio del Proyecto:**
